@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Today iq sunny
 qwerqwerqwerqwer
 1234123412341234
+afqwerag
